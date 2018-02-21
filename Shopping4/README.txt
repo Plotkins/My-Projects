@@ -7,4 +7,4 @@ It has 3 tabs:
 Initially, this application was made as a solution for festival long queues at the vending stands at Polihack Hackathon.
 The idea is that each user can join a group and each person of that group can buy for himself, 
 but there will be a group order that can be taken by one person,
-the payment had been executed on application with tokens, but those parts were not implemented in this project so far.
+the payment is executed on application with tokens, but those parts were not implemented in this project so far.
