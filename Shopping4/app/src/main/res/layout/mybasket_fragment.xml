@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ListView
+        android:id="@+id/mybasketList"
+        android:layout_width="match_parent"
+        android:layout_height="409dp" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="122dp"
+        android:layout_height="45dp"
+        android:layout_marginEnd="1dp"
+        android:text="Total price:"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toTopOf="@+id/orderEdit"
+        app:layout_constraintEnd_toStartOf="@+id/totalpriceEdit"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/mybasketList" />
+
+    <EditText
+        android:id="@+id/totalpriceEdit"
+        android:layout_width="237dp"
+        android:layout_height="45dp"
+        android:layout_marginStart="1dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        app:layout_constraintBottom_toTopOf="@+id/orderEdit"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/textView"
+        app:layout_constraintTop_toBottomOf="@+id/mybasketList" />
+
+    <Button
+        android:id="@+id/orderEdit"
+        android:layout_width="361dp"
+        android:layout_height="56dp"
+        android:layout_marginBottom="5dp"
+        android:text="PLACE ORDER"
+        android:textSize="24sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+</android.support.constraint.ConstraintLayout>
