@@ -1,0 +1,19 @@
+
+
+	Program id: 6
+	Execution stack: stack is empty
+	Symbol table: 
+file1->0
+	Output list: list is empty
+	File table: 
+0->F:\Facultate\MAP\ToyLanguage\src\readMe.txt
+	Heap table: dictionary is empty
+
+	Program id: 6
+	Execution stack: stack is empty
+	Symbol table: 
+file1->0
+	Output list: list is empty
+	File table: 
+0->F:\Facultate\MAP\ToyLanguage\src\readMe.txt
+	Heap table: dictionary is empty

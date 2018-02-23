@@ -1,0 +1,737 @@
+
+
+	Program id: 3
+	Execution stack: 
+v=20
+new(v,20); new(a,66); wH(v,33); print( rH(v) ); print(v); a=0; openRFile(file1,"F:\Facultate\MAP\ToyLanguage\src\readMe.txt");
+	Symbol table: dictionary is empty
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 3
+	Execution stack: 
+v=20
+new(v,20); new(a,66); wH(v,33); print( rH(v) ); print(v); a=0; openRFile(file1,"F:\Facultate\MAP\ToyLanguage\src\readMe.txt");
+	Symbol table: dictionary is empty
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 3
+	Execution stack: 
+new(v,20); new(a,66); wH(v,33); print( rH(v) ); print(v); a=0; openRFile(file1,"F:\Facultate\MAP\ToyLanguage\src\readMe.txt");
+	Symbol table: 
+v->20
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 3
+	Execution stack: 
+new(v,20); new(a,66); wH(v,33); print( rH(v) ); print(v); a=0; openRFile(file1,"F:\Facultate\MAP\ToyLanguage\src\readMe.txt");
+	Symbol table: 
+v->20
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 3
+	Execution stack: 
+new(v,20)
+new(a,66); wH(v,33); print( rH(v) ); print(v); a=0; openRFile(file1,"F:\Facultate\MAP\ToyLanguage\src\readMe.txt");
+	Symbol table: 
+v->20
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 3
+	Execution stack: 
+new(v,20)
+new(a,66); wH(v,33); print( rH(v) ); print(v); a=0; openRFile(file1,"F:\Facultate\MAP\ToyLanguage\src\readMe.txt");
+	Symbol table: 
+v->20
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 3
+	Execution stack: 
+new(a,66); wH(v,33); print( rH(v) ); print(v); a=0; openRFile(file1,"F:\Facultate\MAP\ToyLanguage\src\readMe.txt");
+	Symbol table: 
+v->1
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->20
+
+	Program id: 3
+	Execution stack: 
+new(a,66); wH(v,33); print( rH(v) ); print(v); a=0; openRFile(file1,"F:\Facultate\MAP\ToyLanguage\src\readMe.txt");
+	Symbol table: 
+v->1
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->20
+
+	Program id: 3
+	Execution stack: 
+new(a,66)
+wH(v,33); print( rH(v) ); print(v); a=0; openRFile(file1,"F:\Facultate\MAP\ToyLanguage\src\readMe.txt");
+	Symbol table: 
+v->1
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->20
+
+	Program id: 3
+	Execution stack: 
+new(a,66)
+wH(v,33); print( rH(v) ); print(v); a=0; openRFile(file1,"F:\Facultate\MAP\ToyLanguage\src\readMe.txt");
+	Symbol table: 
+v->1
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->20
+
+	Program id: 3
+	Execution stack: 
+wH(v,33); print( rH(v) ); print(v); a=0; openRFile(file1,"F:\Facultate\MAP\ToyLanguage\src\readMe.txt");
+	Symbol table: 
+a->2
+v->1
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->20
+2->66
+
+	Program id: 3
+	Execution stack: 
+wH(v,33); print( rH(v) ); print(v); a=0; openRFile(file1,"F:\Facultate\MAP\ToyLanguage\src\readMe.txt");
+	Symbol table: 
+a->2
+v->1
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->20
+2->66
+
+	Program id: 3
+	Execution stack: 
+wH(v,33)
+print( rH(v) ); print(v); a=0; openRFile(file1,"F:\Facultate\MAP\ToyLanguage\src\readMe.txt");
+	Symbol table: 
+a->2
+v->1
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->20
+2->66
+
+	Program id: 3
+	Execution stack: 
+wH(v,33)
+print( rH(v) ); print(v); a=0; openRFile(file1,"F:\Facultate\MAP\ToyLanguage\src\readMe.txt");
+	Symbol table: 
+a->2
+v->1
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->20
+2->66
+
+	Program id: 3
+	Execution stack: 
+print( rH(v) ); print(v); a=0; openRFile(file1,"F:\Facultate\MAP\ToyLanguage\src\readMe.txt");
+	Symbol table: 
+a->2
+v->1
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->33
+2->66
+
+	Program id: 3
+	Execution stack: 
+print( rH(v) ); print(v); a=0; openRFile(file1,"F:\Facultate\MAP\ToyLanguage\src\readMe.txt");
+	Symbol table: 
+a->2
+v->1
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->33
+2->66
+
+	Program id: 3
+	Execution stack: 
+print( rH(v) )
+print(v); a=0; openRFile(file1,"F:\Facultate\MAP\ToyLanguage\src\readMe.txt");
+	Symbol table: 
+a->2
+v->1
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->33
+2->66
+
+	Program id: 3
+	Execution stack: 
+print( rH(v) )
+print(v); a=0; openRFile(file1,"F:\Facultate\MAP\ToyLanguage\src\readMe.txt");
+	Symbol table: 
+a->2
+v->1
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->33
+2->66
+
+	Program id: 3
+	Execution stack: 
+print(v); a=0; openRFile(file1,"F:\Facultate\MAP\ToyLanguage\src\readMe.txt");
+	Symbol table: 
+a->2
+v->1
+	Output list: 
+33
+	File table: dictionary is empty
+	Heap table: 
+1->33
+2->66
+
+	Program id: 3
+	Execution stack: 
+print(v); a=0; openRFile(file1,"F:\Facultate\MAP\ToyLanguage\src\readMe.txt");
+	Symbol table: 
+a->2
+v->1
+	Output list: 
+33
+	File table: dictionary is empty
+	Heap table: 
+1->33
+2->66
+
+	Program id: 3
+	Execution stack: 
+print(v)
+a=0; openRFile(file1,"F:\Facultate\MAP\ToyLanguage\src\readMe.txt");
+	Symbol table: 
+a->2
+v->1
+	Output list: 
+33
+	File table: dictionary is empty
+	Heap table: 
+1->33
+2->66
+
+	Program id: 3
+	Execution stack: 
+print(v)
+a=0; openRFile(file1,"F:\Facultate\MAP\ToyLanguage\src\readMe.txt");
+	Symbol table: 
+a->2
+v->1
+	Output list: 
+33
+	File table: dictionary is empty
+	Heap table: 
+1->33
+2->66
+
+	Program id: 3
+	Execution stack: 
+a=0; openRFile(file1,"F:\Facultate\MAP\ToyLanguage\src\readMe.txt");
+	Symbol table: 
+a->2
+v->1
+	Output list: 
+33
+1
+	File table: dictionary is empty
+	Heap table: 
+1->33
+2->66
+
+	Program id: 3
+	Execution stack: 
+a=0; openRFile(file1,"F:\Facultate\MAP\ToyLanguage\src\readMe.txt");
+	Symbol table: 
+a->2
+v->1
+	Output list: 
+33
+1
+	File table: dictionary is empty
+	Heap table: 
+1->33
+2->66
+
+	Program id: 3
+	Execution stack: 
+a=0
+openRFile(file1,"F:\Facultate\MAP\ToyLanguage\src\readMe.txt");
+	Symbol table: 
+a->2
+v->1
+	Output list: 
+33
+1
+	File table: dictionary is empty
+	Heap table: 
+1->33
+2->66
+
+	Program id: 3
+	Execution stack: 
+a=0
+openRFile(file1,"F:\Facultate\MAP\ToyLanguage\src\readMe.txt");
+	Symbol table: 
+a->2
+v->1
+	Output list: 
+33
+1
+	File table: dictionary is empty
+	Heap table: 
+1->33
+2->66
+
+	Program id: 3
+	Execution stack: 
+openRFile(file1,"F:\Facultate\MAP\ToyLanguage\src\readMe.txt");
+	Symbol table: 
+a->0
+v->1
+	Output list: 
+33
+1
+	File table: dictionary is empty
+	Heap table: 
+1->33
+2->66
+
+	Program id: 3
+	Execution stack: 
+openRFile(file1,"F:\Facultate\MAP\ToyLanguage\src\readMe.txt");
+	Symbol table: 
+a->0
+v->1
+	Output list: 
+33
+1
+	File table: dictionary is empty
+	Heap table: 
+1->33
+2->66
+
+	Program id: 3
+	Execution stack: stack is empty
+	Symbol table: 
+a->0
+v->1
+file1->0
+	Output list: 
+33
+1
+	File table: 
+0->F:\Facultate\MAP\ToyLanguage\src\readMe.txt
+	Heap table: 
+1->33
+2->66
+
+	Program id: 3
+	Execution stack: stack is empty
+	Symbol table: 
+a->0
+v->1
+file1->0
+	Output list: 
+33
+1
+	File table: 
+0->F:\Facultate\MAP\ToyLanguage\src\readMe.txt
+	Heap table: 
+1->33
+2->66
+
+	Program id: 3
+	Execution stack: 
+v=20
+new(v,20); new(a,66); wH(v,33); print( rH(v) ); print(v); a=0; openRFile(file1,"F:\Facultate\MAP\ToyLanguage\src\readMe.txt");
+	Symbol table: dictionary is empty
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 3
+	Execution stack: 
+v=20
+new(v,20); new(a,66); wH(v,33); print( rH(v) ); print(v); a=0; openRFile(file1,"F:\Facultate\MAP\ToyLanguage\src\readMe.txt");
+	Symbol table: dictionary is empty
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 3
+	Execution stack: 
+new(v,20); new(a,66); wH(v,33); print( rH(v) ); print(v); a=0; openRFile(file1,"F:\Facultate\MAP\ToyLanguage\src\readMe.txt");
+	Symbol table: 
+v->20
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 3
+	Execution stack: 
+new(v,20); new(a,66); wH(v,33); print( rH(v) ); print(v); a=0; openRFile(file1,"F:\Facultate\MAP\ToyLanguage\src\readMe.txt");
+	Symbol table: 
+v->20
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 3
+	Execution stack: 
+new(v,20)
+new(a,66); wH(v,33); print( rH(v) ); print(v); a=0; openRFile(file1,"F:\Facultate\MAP\ToyLanguage\src\readMe.txt");
+	Symbol table: 
+v->20
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 3
+	Execution stack: 
+new(v,20)
+new(a,66); wH(v,33); print( rH(v) ); print(v); a=0; openRFile(file1,"F:\Facultate\MAP\ToyLanguage\src\readMe.txt");
+	Symbol table: 
+v->20
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 3
+	Execution stack: 
+new(a,66); wH(v,33); print( rH(v) ); print(v); a=0; openRFile(file1,"F:\Facultate\MAP\ToyLanguage\src\readMe.txt");
+	Symbol table: 
+v->1
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->20
+
+	Program id: 3
+	Execution stack: 
+new(a,66); wH(v,33); print( rH(v) ); print(v); a=0; openRFile(file1,"F:\Facultate\MAP\ToyLanguage\src\readMe.txt");
+	Symbol table: 
+v->1
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->20
+
+	Program id: 3
+	Execution stack: 
+new(a,66)
+wH(v,33); print( rH(v) ); print(v); a=0; openRFile(file1,"F:\Facultate\MAP\ToyLanguage\src\readMe.txt");
+	Symbol table: 
+v->1
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->20
+
+	Program id: 3
+	Execution stack: 
+new(a,66)
+wH(v,33); print( rH(v) ); print(v); a=0; openRFile(file1,"F:\Facultate\MAP\ToyLanguage\src\readMe.txt");
+	Symbol table: 
+v->1
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->20
+
+	Program id: 3
+	Execution stack: 
+wH(v,33); print( rH(v) ); print(v); a=0; openRFile(file1,"F:\Facultate\MAP\ToyLanguage\src\readMe.txt");
+	Symbol table: 
+a->2
+v->1
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->20
+2->66
+
+	Program id: 3
+	Execution stack: 
+wH(v,33); print( rH(v) ); print(v); a=0; openRFile(file1,"F:\Facultate\MAP\ToyLanguage\src\readMe.txt");
+	Symbol table: 
+a->2
+v->1
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->20
+2->66
+
+	Program id: 3
+	Execution stack: 
+wH(v,33)
+print( rH(v) ); print(v); a=0; openRFile(file1,"F:\Facultate\MAP\ToyLanguage\src\readMe.txt");
+	Symbol table: 
+a->2
+v->1
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->20
+2->66
+
+	Program id: 3
+	Execution stack: 
+wH(v,33)
+print( rH(v) ); print(v); a=0; openRFile(file1,"F:\Facultate\MAP\ToyLanguage\src\readMe.txt");
+	Symbol table: 
+a->2
+v->1
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->20
+2->66
+
+	Program id: 3
+	Execution stack: 
+print( rH(v) ); print(v); a=0; openRFile(file1,"F:\Facultate\MAP\ToyLanguage\src\readMe.txt");
+	Symbol table: 
+a->2
+v->1
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->33
+2->66
+
+	Program id: 3
+	Execution stack: 
+print( rH(v) ); print(v); a=0; openRFile(file1,"F:\Facultate\MAP\ToyLanguage\src\readMe.txt");
+	Symbol table: 
+a->2
+v->1
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->33
+2->66
+
+	Program id: 3
+	Execution stack: 
+print( rH(v) )
+print(v); a=0; openRFile(file1,"F:\Facultate\MAP\ToyLanguage\src\readMe.txt");
+	Symbol table: 
+a->2
+v->1
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->33
+2->66
+
+	Program id: 3
+	Execution stack: 
+print( rH(v) )
+print(v); a=0; openRFile(file1,"F:\Facultate\MAP\ToyLanguage\src\readMe.txt");
+	Symbol table: 
+a->2
+v->1
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->33
+2->66
+
+	Program id: 3
+	Execution stack: 
+print(v); a=0; openRFile(file1,"F:\Facultate\MAP\ToyLanguage\src\readMe.txt");
+	Symbol table: 
+a->2
+v->1
+	Output list: 
+33
+	File table: dictionary is empty
+	Heap table: 
+1->33
+2->66
+
+	Program id: 3
+	Execution stack: 
+print(v); a=0; openRFile(file1,"F:\Facultate\MAP\ToyLanguage\src\readMe.txt");
+	Symbol table: 
+a->2
+v->1
+	Output list: 
+33
+	File table: dictionary is empty
+	Heap table: 
+1->33
+2->66
+
+	Program id: 3
+	Execution stack: 
+print(v)
+a=0; openRFile(file1,"F:\Facultate\MAP\ToyLanguage\src\readMe.txt");
+	Symbol table: 
+a->2
+v->1
+	Output list: 
+33
+	File table: dictionary is empty
+	Heap table: 
+1->33
+2->66
+
+	Program id: 3
+	Execution stack: 
+print(v)
+a=0; openRFile(file1,"F:\Facultate\MAP\ToyLanguage\src\readMe.txt");
+	Symbol table: 
+a->2
+v->1
+	Output list: 
+33
+	File table: dictionary is empty
+	Heap table: 
+1->33
+2->66
+
+	Program id: 3
+	Execution stack: 
+a=0; openRFile(file1,"F:\Facultate\MAP\ToyLanguage\src\readMe.txt");
+	Symbol table: 
+a->2
+v->1
+	Output list: 
+33
+1
+	File table: dictionary is empty
+	Heap table: 
+1->33
+2->66
+
+	Program id: 3
+	Execution stack: 
+a=0; openRFile(file1,"F:\Facultate\MAP\ToyLanguage\src\readMe.txt");
+	Symbol table: 
+a->2
+v->1
+	Output list: 
+33
+1
+	File table: dictionary is empty
+	Heap table: 
+1->33
+2->66
+
+	Program id: 3
+	Execution stack: 
+a=0
+openRFile(file1,"F:\Facultate\MAP\ToyLanguage\src\readMe.txt");
+	Symbol table: 
+a->2
+v->1
+	Output list: 
+33
+1
+	File table: dictionary is empty
+	Heap table: 
+1->33
+2->66
+
+	Program id: 3
+	Execution stack: 
+a=0
+openRFile(file1,"F:\Facultate\MAP\ToyLanguage\src\readMe.txt");
+	Symbol table: 
+a->2
+v->1
+	Output list: 
+33
+1
+	File table: dictionary is empty
+	Heap table: 
+1->33
+2->66
+
+	Program id: 3
+	Execution stack: 
+openRFile(file1,"F:\Facultate\MAP\ToyLanguage\src\readMe.txt");
+	Symbol table: 
+a->0
+v->1
+	Output list: 
+33
+1
+	File table: dictionary is empty
+	Heap table: 
+1->33
+2->66
+
+	Program id: 3
+	Execution stack: 
+openRFile(file1,"F:\Facultate\MAP\ToyLanguage\src\readMe.txt");
+	Symbol table: 
+a->0
+v->1
+	Output list: 
+33
+1
+	File table: dictionary is empty
+	Heap table: 
+1->33
+2->66
+
+	Program id: 3
+	Execution stack: stack is empty
+	Symbol table: 
+a->0
+v->1
+file1->0
+	Output list: 
+33
+1
+	File table: 
+0->F:\Facultate\MAP\ToyLanguage\src\readMe.txt
+	Heap table: 
+1->33
+2->66
+
+	Program id: 3
+	Execution stack: stack is empty
+	Symbol table: 
+a->0
+v->1
+file1->0
+	Output list: 
+33
+1
+	File table: 
+0->F:\Facultate\MAP\ToyLanguage\src\readMe.txt
+	Heap table: 
+1->33
+2->66

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+
+
+<HBox xmlns="http://javafx.com/javafx/9.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.SecondController">
+   <children>
+      <VBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="450.0" prefWidth="799.0">
+          <children>
+              <HBox prefHeight="33.0" prefWidth="800.0">
+                  <children>
+                      <Button fx:id="runButton" mnemonicParsing="false" onAction="#executeOneStep" text="Run a step">
+                          <HBox.margin>
+                              <Insets left="200.0" top="4.0" />
+                          </HBox.margin>
+                      </Button>
+                  </children>
+                  <VBox.margin>
+                      <Insets />
+                  </VBox.margin>
+              </HBox>
+            <HBox>
+               <children>
+                    <TextField fx:id="nrOfThreadsLine" prefHeight="25.0" prefWidth="240.0" text="Number of threads: " />
+                  <TextField fx:id="currentLine" prefHeight="25.0" prefWidth="243.0" text="Current thread: " />
+               </children>
+            </HBox>
+              <HBox prefHeight="148.0" prefWidth="800.0">
+                  <children>
+                      <VBox prefHeight="148.0" prefWidth="600.0">
+                          <children>
+                              <TextField alignment="CENTER" text="Execution Stack" />
+                              <ListView fx:id="exeListView" prefHeight="123.0" prefWidth="580.0" />
+                          </children>
+                      </VBox>
+                      <VBox prefHeight="148.0" prefWidth="202.0">
+                          <children>
+                              <TextField alignment="CENTER" text="Thread ID" />
+                              <ListView fx:id="idListView" onMouseClicked="#up_ind" prefHeight="123.0" prefWidth="189.0" />
+                          </children>
+                      </VBox>
+                  </children>
+              </HBox>
+              <HBox prefHeight="245.0" prefWidth="800.0">
+                  <children>
+                      <VBox prefHeight="245.0" prefWidth="200.0">
+                          <children>
+                              <TextField alignment="CENTER" text="Symbol Table" />
+                              <TableView fx:id="symTableView" prefHeight="219.0" prefWidth="200.0">
+                                  <columns>
+                                      <TableColumn fx:id="STName" prefWidth="106.0" text="Name" />
+                                      <TableColumn fx:id="STValue" prefWidth="93.0" text="Value" />
+                                  </columns>
+                              </TableView>
+                          </children>
+                      </VBox>
+                      <VBox prefHeight="200.0" prefWidth="200.0">
+                          <children>
+                              <TextField alignment="CENTER" text="Heap Table" />
+                              <TableView fx:id="heapTableView" prefHeight="219.0" prefWidth="200.0">
+                                  <columns>
+                                      <TableColumn fx:id="HTAdress" prefWidth="107.0" text="Adress" />
+                                      <TableColumn fx:id="HTValue" prefWidth="92.0" text="Value" />
+                                  </columns>
+                              </TableView>
+                          </children>
+                      </VBox>
+                      <VBox prefHeight="200.0" prefWidth="200.0">
+                          <children>
+                              <TextField alignment="CENTER" text="File Table" />
+                              <TableView fx:id="fileTableView" prefHeight="223.0" prefWidth="200.0">
+                                  <columns>
+                                      <TableColumn fx:id="FTValue" prefWidth="109.0" text="Value" />
+                                      <TableColumn fx:id="FTPath" prefWidth="90.0" text="Path" />
+                                  </columns>
+                              </TableView>
+                          </children>
+                      </VBox>
+                      <VBox prefHeight="200.0" prefWidth="200.0">
+                          <children>
+                              <TextField alignment="CENTER" text="Output" />
+                              <ListView fx:id="outputListView" prefHeight="221.0" prefWidth="200.0" />
+                          </children>
+                      </VBox>
+                  </children>
+              </HBox>
+          </children>
+      </VBox>
+      <VBox prefHeight="450.0" prefWidth="302.0">
+         <children>
+            <TextField alignment="CENTER" text="Barrier Table" />
+            <TableView fx:id="barrierTableView" prefHeight="429.0" prefWidth="302.0">
+              <columns>
+                <TableColumn fx:id="BTIndex" prefWidth="68.0" text="Index" />
+                <TableColumn fx:id="BTValue" prefWidth="84.0" text="Value" />
+                  <TableColumn fx:id="BTList" prefWidth="148.0" text="List of values" />
+              </columns>
+            </TableView>
+         </children>
+      </VBox>
+   </children>
+</HBox>

@@ -1,0 +1,3743 @@
+
+
+	Program id: 7
+	Execution stack: 
+v=10
+new(a,22); fork( wH(a,30); v=32; print(v); print( rH(a) ) ); print(v); print( rH(a) )
+	Symbol table: dictionary is empty
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 7
+	Execution stack: 
+v=10
+new(a,22); fork( wH(a,30); v=32; print(v); print( rH(a) ) ); print(v); print( rH(a) )
+	Symbol table: dictionary is empty
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 7
+	Execution stack: 
+new(a,22); fork( wH(a,30); v=32; print(v); print( rH(a) ) ); print(v); print( rH(a) )
+	Symbol table: 
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 7
+	Execution stack: 
+new(a,22); fork( wH(a,30); v=32; print(v); print( rH(a) ) ); print(v); print( rH(a) )
+	Symbol table: 
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 7
+	Execution stack: 
+new(a,22)
+fork( wH(a,30); v=32; print(v); print( rH(a) ) ); print(v); print( rH(a) )
+	Symbol table: 
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 7
+	Execution stack: 
+new(a,22)
+fork( wH(a,30); v=32; print(v); print( rH(a) ) ); print(v); print( rH(a) )
+	Symbol table: 
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 7
+	Execution stack: 
+fork( wH(a,30); v=32; print(v); print( rH(a) ) ); print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 7
+	Execution stack: 
+fork( wH(a,30); v=32; print(v); print( rH(a) ) ); print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 7
+	Execution stack: 
+fork( wH(a,30); v=32; print(v); print( rH(a) ) )
+print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 7
+	Execution stack: 
+fork( wH(a,30); v=32; print(v); print( rH(a) ) )
+print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 7
+	Execution stack: 
+print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 70
+	Execution stack: 
+wH(a,30); v=32; print(v); print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 7
+	Execution stack: 
+print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 70
+	Execution stack: 
+wH(a,30); v=32; print(v); print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 7
+	Execution stack: 
+print(v)
+print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 70
+	Execution stack: 
+wH(a,30)
+v=32; print(v); print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 7
+	Execution stack: 
+print(v)
+print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 70
+	Execution stack: 
+wH(a,30)
+v=32; print(v); print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 7
+	Execution stack: 
+print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: 
+10
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+v=32; print(v); print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: 
+10
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 7
+	Execution stack: 
+print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: 
+10
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+v=32; print(v); print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: 
+10
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 7
+	Execution stack: stack is empty
+	Symbol table: 
+a->1
+v->10
+	Output list: 
+10
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+v=32
+print(v); print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: 
+10
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 7
+	Execution stack: stack is empty
+	Symbol table: 
+a->1
+v->10
+	Output list: 
+10
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+v=32
+print(v); print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: 
+10
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+print(v); print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+print(v); print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+print(v)
+print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+print(v)
+print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+wH(a,30)
+v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+wH(a,30)
+v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+v=32
+print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+v=32
+print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+print(v)
+print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+print(v)
+print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+30
+32
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+30
+32
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: stack is empty
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+30
+32
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: stack is empty
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+30
+32
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 7
+	Execution stack: 
+v=10
+new(a,22); fork( wH(a,30); v=32; print(v); print( rH(a) ) ); print(v); print( rH(a) )
+	Symbol table: dictionary is empty
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 7
+	Execution stack: 
+v=10
+new(a,22); fork( wH(a,30); v=32; print(v); print( rH(a) ) ); print(v); print( rH(a) )
+	Symbol table: dictionary is empty
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 7
+	Execution stack: 
+new(a,22); fork( wH(a,30); v=32; print(v); print( rH(a) ) ); print(v); print( rH(a) )
+	Symbol table: 
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 7
+	Execution stack: 
+new(a,22); fork( wH(a,30); v=32; print(v); print( rH(a) ) ); print(v); print( rH(a) )
+	Symbol table: 
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 7
+	Execution stack: 
+new(a,22)
+fork( wH(a,30); v=32; print(v); print( rH(a) ) ); print(v); print( rH(a) )
+	Symbol table: 
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 7
+	Execution stack: 
+new(a,22)
+fork( wH(a,30); v=32; print(v); print( rH(a) ) ); print(v); print( rH(a) )
+	Symbol table: 
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 7
+	Execution stack: 
+fork( wH(a,30); v=32; print(v); print( rH(a) ) ); print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 7
+	Execution stack: 
+fork( wH(a,30); v=32; print(v); print( rH(a) ) ); print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 7
+	Execution stack: 
+fork( wH(a,30); v=32; print(v); print( rH(a) ) )
+print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 7
+	Execution stack: 
+fork( wH(a,30); v=32; print(v); print( rH(a) ) )
+print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 7
+	Execution stack: 
+print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 70
+	Execution stack: 
+wH(a,30); v=32; print(v); print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 7
+	Execution stack: 
+print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 70
+	Execution stack: 
+wH(a,30); v=32; print(v); print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 7
+	Execution stack: 
+print(v)
+print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 70
+	Execution stack: 
+wH(a,30)
+v=32; print(v); print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 7
+	Execution stack: 
+print(v)
+print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 70
+	Execution stack: 
+wH(a,30)
+v=32; print(v); print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 7
+	Execution stack: 
+print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: 
+10
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+v=32; print(v); print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: 
+10
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 7
+	Execution stack: 
+print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: 
+10
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+v=32; print(v); print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: 
+10
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 7
+	Execution stack: stack is empty
+	Symbol table: 
+a->1
+v->10
+	Output list: 
+10
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+v=32
+print(v); print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: 
+10
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 7
+	Execution stack: stack is empty
+	Symbol table: 
+a->1
+v->10
+	Output list: 
+10
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+v=32
+print(v); print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: 
+10
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+print(v); print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+print(v); print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+print(v)
+print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+print(v)
+print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+wH(a,30)
+v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+wH(a,30)
+v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+v=32
+print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+v=32
+print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+print(v)
+print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+print(v)
+print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+30
+32
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+30
+32
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: stack is empty
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+30
+32
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: stack is empty
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+30
+32
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 7
+	Execution stack: 
+v=10
+new(a,22); fork( wH(a,30); v=32; print(v); print( rH(a) ) ); print(v); print( rH(a) )
+	Symbol table: dictionary is empty
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 7
+	Execution stack: 
+v=10
+new(a,22); fork( wH(a,30); v=32; print(v); print( rH(a) ) ); print(v); print( rH(a) )
+	Symbol table: dictionary is empty
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 7
+	Execution stack: 
+new(a,22); fork( wH(a,30); v=32; print(v); print( rH(a) ) ); print(v); print( rH(a) )
+	Symbol table: 
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 7
+	Execution stack: 
+new(a,22); fork( wH(a,30); v=32; print(v); print( rH(a) ) ); print(v); print( rH(a) )
+	Symbol table: 
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 7
+	Execution stack: 
+new(a,22)
+fork( wH(a,30); v=32; print(v); print( rH(a) ) ); print(v); print( rH(a) )
+	Symbol table: 
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 7
+	Execution stack: 
+new(a,22)
+fork( wH(a,30); v=32; print(v); print( rH(a) ) ); print(v); print( rH(a) )
+	Symbol table: 
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 7
+	Execution stack: 
+fork( wH(a,30); v=32; print(v); print( rH(a) ) ); print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 7
+	Execution stack: 
+fork( wH(a,30); v=32; print(v); print( rH(a) ) ); print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 7
+	Execution stack: 
+fork( wH(a,30); v=32; print(v); print( rH(a) ) )
+print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 7
+	Execution stack: 
+fork( wH(a,30); v=32; print(v); print( rH(a) ) )
+print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 7
+	Execution stack: 
+print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 70
+	Execution stack: 
+wH(a,30); v=32; print(v); print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 7
+	Execution stack: 
+print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 70
+	Execution stack: 
+wH(a,30); v=32; print(v); print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 7
+	Execution stack: 
+print(v)
+print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 70
+	Execution stack: 
+wH(a,30)
+v=32; print(v); print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 7
+	Execution stack: 
+print(v)
+print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 70
+	Execution stack: 
+wH(a,30)
+v=32; print(v); print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 7
+	Execution stack: 
+print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: 
+10
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+v=32; print(v); print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: 
+10
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 7
+	Execution stack: 
+print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: 
+10
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+v=32; print(v); print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: 
+10
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 7
+	Execution stack: stack is empty
+	Symbol table: 
+a->1
+v->10
+	Output list: 
+10
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+v=32
+print(v); print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: 
+10
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 7
+	Execution stack: stack is empty
+	Symbol table: 
+a->1
+v->10
+	Output list: 
+10
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+v=32
+print(v); print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: 
+10
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+print(v); print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+print(v); print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+print(v)
+print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+print(v)
+print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+wH(a,30)
+v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+wH(a,30)
+v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+v=32
+print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+v=32
+print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+print(v)
+print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+print(v)
+print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+30
+32
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+30
+32
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: stack is empty
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+30
+32
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: stack is empty
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+30
+32
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 7
+	Execution stack: 
+v=10
+new(a,22); fork( wH(a,30); v=32; print(v); print( rH(a) ) ); print(v); print( rH(a) )
+	Symbol table: dictionary is empty
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 7
+	Execution stack: 
+v=10
+new(a,22); fork( wH(a,30); v=32; print(v); print( rH(a) ) ); print(v); print( rH(a) )
+	Symbol table: dictionary is empty
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 7
+	Execution stack: 
+new(a,22); fork( wH(a,30); v=32; print(v); print( rH(a) ) ); print(v); print( rH(a) )
+	Symbol table: 
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 7
+	Execution stack: 
+new(a,22); fork( wH(a,30); v=32; print(v); print( rH(a) ) ); print(v); print( rH(a) )
+	Symbol table: 
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 7
+	Execution stack: 
+new(a,22)
+fork( wH(a,30); v=32; print(v); print( rH(a) ) ); print(v); print( rH(a) )
+	Symbol table: 
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 7
+	Execution stack: 
+new(a,22)
+fork( wH(a,30); v=32; print(v); print( rH(a) ) ); print(v); print( rH(a) )
+	Symbol table: 
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 7
+	Execution stack: 
+fork( wH(a,30); v=32; print(v); print( rH(a) ) ); print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 7
+	Execution stack: 
+fork( wH(a,30); v=32; print(v); print( rH(a) ) ); print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 7
+	Execution stack: 
+fork( wH(a,30); v=32; print(v); print( rH(a) ) )
+print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 7
+	Execution stack: 
+fork( wH(a,30); v=32; print(v); print( rH(a) ) )
+print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 7
+	Execution stack: 
+print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 70
+	Execution stack: 
+wH(a,30); v=32; print(v); print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 7
+	Execution stack: 
+print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 70
+	Execution stack: 
+wH(a,30); v=32; print(v); print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 7
+	Execution stack: 
+print(v)
+print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 70
+	Execution stack: 
+wH(a,30)
+v=32; print(v); print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 7
+	Execution stack: 
+print(v)
+print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 70
+	Execution stack: 
+wH(a,30)
+v=32; print(v); print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 7
+	Execution stack: 
+print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: 
+10
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+v=32; print(v); print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: 
+10
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 7
+	Execution stack: 
+print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: 
+10
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+v=32; print(v); print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: 
+10
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 7
+	Execution stack: stack is empty
+	Symbol table: 
+a->1
+v->10
+	Output list: 
+10
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+v=32
+print(v); print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: 
+10
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 7
+	Execution stack: stack is empty
+	Symbol table: 
+a->1
+v->10
+	Output list: 
+10
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+v=32
+print(v); print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: 
+10
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+print(v); print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+print(v); print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+print(v)
+print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+print(v)
+print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 7
+	Execution stack: 
+v=10
+new(a,22); fork( wH(a,30); v=32; print(v); print( rH(a) ) ); print(v); print( rH(a) )
+	Symbol table: dictionary is empty
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 7
+	Execution stack: 
+v=10
+new(a,22); fork( wH(a,30); v=32; print(v); print( rH(a) ) ); print(v); print( rH(a) )
+	Symbol table: dictionary is empty
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 7
+	Execution stack: 
+new(a,22); fork( wH(a,30); v=32; print(v); print( rH(a) ) ); print(v); print( rH(a) )
+	Symbol table: 
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 7
+	Execution stack: 
+new(a,22); fork( wH(a,30); v=32; print(v); print( rH(a) ) ); print(v); print( rH(a) )
+	Symbol table: 
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 7
+	Execution stack: 
+new(a,22)
+fork( wH(a,30); v=32; print(v); print( rH(a) ) ); print(v); print( rH(a) )
+	Symbol table: 
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 7
+	Execution stack: 
+new(a,22)
+fork( wH(a,30); v=32; print(v); print( rH(a) ) ); print(v); print( rH(a) )
+	Symbol table: 
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 7
+	Execution stack: 
+fork( wH(a,30); v=32; print(v); print( rH(a) ) ); print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 7
+	Execution stack: 
+fork( wH(a,30); v=32; print(v); print( rH(a) ) ); print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 7
+	Execution stack: 
+fork( wH(a,30); v=32; print(v); print( rH(a) ) )
+print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 7
+	Execution stack: 
+fork( wH(a,30); v=32; print(v); print( rH(a) ) )
+print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 7
+	Execution stack: 
+print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 70
+	Execution stack: 
+wH(a,30); v=32; print(v); print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 7
+	Execution stack: 
+print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 70
+	Execution stack: 
+wH(a,30); v=32; print(v); print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 7
+	Execution stack: 
+print(v)
+print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 70
+	Execution stack: 
+wH(a,30)
+v=32; print(v); print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 7
+	Execution stack: 
+print(v)
+print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 70
+	Execution stack: 
+wH(a,30)
+v=32; print(v); print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 7
+	Execution stack: 
+print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: 
+10
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+v=32; print(v); print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: 
+10
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 7
+	Execution stack: 
+print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: 
+10
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+v=32; print(v); print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: 
+10
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 7
+	Execution stack: stack is empty
+	Symbol table: 
+a->1
+v->10
+	Output list: 
+10
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+v=32
+print(v); print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: 
+10
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 7
+	Execution stack: stack is empty
+	Symbol table: 
+a->1
+v->10
+	Output list: 
+10
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+v=32
+print(v); print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: 
+10
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+print(v); print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+print(v); print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+print(v)
+print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+print(v)
+print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+wH(a,30)
+v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+wH(a,30)
+v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+v=32
+print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+v=32
+print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 7
+	Execution stack: 
+v=10
+new(a,22); fork( wH(a,30); v=32; print(v); print( rH(a) ) ); print(v); print( rH(a) )
+	Symbol table: dictionary is empty
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 7
+	Execution stack: 
+v=10
+new(a,22); fork( wH(a,30); v=32; print(v); print( rH(a) ) ); print(v); print( rH(a) )
+	Symbol table: dictionary is empty
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 7
+	Execution stack: 
+new(a,22); fork( wH(a,30); v=32; print(v); print( rH(a) ) ); print(v); print( rH(a) )
+	Symbol table: 
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 7
+	Execution stack: 
+new(a,22); fork( wH(a,30); v=32; print(v); print( rH(a) ) ); print(v); print( rH(a) )
+	Symbol table: 
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 7
+	Execution stack: 
+new(a,22)
+fork( wH(a,30); v=32; print(v); print( rH(a) ) ); print(v); print( rH(a) )
+	Symbol table: 
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 7
+	Execution stack: 
+new(a,22)
+fork( wH(a,30); v=32; print(v); print( rH(a) ) ); print(v); print( rH(a) )
+	Symbol table: 
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 7
+	Execution stack: 
+fork( wH(a,30); v=32; print(v); print( rH(a) ) ); print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 7
+	Execution stack: 
+fork( wH(a,30); v=32; print(v); print( rH(a) ) ); print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 7
+	Execution stack: 
+fork( wH(a,30); v=32; print(v); print( rH(a) ) )
+print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 7
+	Execution stack: 
+fork( wH(a,30); v=32; print(v); print( rH(a) ) )
+print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 7
+	Execution stack: 
+print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 70
+	Execution stack: 
+wH(a,30); v=32; print(v); print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 7
+	Execution stack: 
+print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 70
+	Execution stack: 
+wH(a,30); v=32; print(v); print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 7
+	Execution stack: 
+print(v)
+print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 70
+	Execution stack: 
+wH(a,30)
+v=32; print(v); print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 7
+	Execution stack: 
+print(v)
+print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 70
+	Execution stack: 
+wH(a,30)
+v=32; print(v); print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 7
+	Execution stack: 
+print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: 
+10
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+v=32; print(v); print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: 
+10
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 7
+	Execution stack: 
+print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: 
+10
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+v=32; print(v); print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: 
+10
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 7
+	Execution stack: stack is empty
+	Symbol table: 
+a->1
+v->10
+	Output list: 
+10
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+v=32
+print(v); print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: 
+10
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 7
+	Execution stack: stack is empty
+	Symbol table: 
+a->1
+v->10
+	Output list: 
+10
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+v=32
+print(v); print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: 
+10
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+print(v); print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+print(v); print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+print(v)
+print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+print(v)
+print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+print( rH(a) )
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+wH(a,30)
+v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+wH(a,30)
+v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+v=32
+print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+v=32
+print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 7
+	Execution stack: 
+v=10
+new(a,22); fork( wH(a,30); v=32; print(v); print( rH(a) ) ); print(v); print( rH(a) )
+	Symbol table: dictionary is empty
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 7
+	Execution stack: 
+v=10
+new(a,22); fork( wH(a,30); v=32; print(v); print( rH(a) ) ); print(v); print( rH(a) )
+	Symbol table: dictionary is empty
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 7
+	Execution stack: 
+new(a,22); fork( wH(a,30); v=32; print(v); print( rH(a) ) ); print(v); print( rH(a) )
+	Symbol table: 
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 7
+	Execution stack: 
+new(a,22); fork( wH(a,30); v=32; print(v); print( rH(a) ) ); print(v); print( rH(a) )
+	Symbol table: 
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 7
+	Execution stack: 
+new(a,22)
+fork( wH(a,30); v=32; print(v); print( rH(a) ) ); print(v); print( rH(a) )
+	Symbol table: 
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 7
+	Execution stack: 
+new(a,22)
+fork( wH(a,30); v=32; print(v); print( rH(a) ) ); print(v); print( rH(a) )
+	Symbol table: 
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 7
+	Execution stack: 
+fork( wH(a,30); v=32; print(v); print( rH(a) ) ); print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 7
+	Execution stack: 
+fork( wH(a,30); v=32; print(v); print( rH(a) ) ); print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 7
+	Execution stack: 
+fork( wH(a,30); v=32; print(v); print( rH(a) ) )
+print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 7
+	Execution stack: 
+fork( wH(a,30); v=32; print(v); print( rH(a) ) )
+print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 7
+	Execution stack: 
+print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 70
+	Execution stack: 
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 7
+	Execution stack: 
+print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 70
+	Execution stack: 
+wH(a,30); v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 7
+	Execution stack: 
+print(v)
+print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 70
+	Execution stack: 
+wH(a,30)
+v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 7
+	Execution stack: 
+print(v)
+print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 70
+	Execution stack: 
+wH(a,30)
+v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: 
+1->22
+
+	Program id: 7
+	Execution stack: 
+print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: 
+10
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: 
+10
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 7
+	Execution stack: 
+print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: 
+10
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+v=32; print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: 
+10
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 7
+	Execution stack: stack is empty
+	Symbol table: 
+a->1
+v->10
+	Output list: 
+10
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+v=32
+print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: 
+10
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 7
+	Execution stack: stack is empty
+	Symbol table: 
+a->1
+v->10
+	Output list: 
+10
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+v=32
+print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->10
+	Output list: 
+10
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+print(v); print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+print(v)
+print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+print(v)
+print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: 
+print( rH(a) )
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: stack is empty
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30
+
+	Program id: 70
+	Execution stack: stack is empty
+	Symbol table: 
+a->1
+v->32
+	Output list: 
+10
+30
+32
+30
+	File table: dictionary is empty
+	Heap table: 
+1->30

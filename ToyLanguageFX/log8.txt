@@ -1,0 +1,709 @@
+
+
+	Program id: 9
+	Execution stack: 
+fork( print(1) )
+fork( print(2) )
+	Symbol table: dictionary is empty
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 9
+	Execution stack: 
+fork( print(1) )
+fork( print(2) )
+	Symbol table: dictionary is empty
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 9
+	Execution stack: 
+fork( print(2) )
+	Symbol table: dictionary is empty
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 90
+	Execution stack: 
+print(1)
+	Symbol table: dictionary is empty
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 9
+	Execution stack: 
+fork( print(2) )
+	Symbol table: dictionary is empty
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 90
+	Execution stack: 
+print(1)
+	Symbol table: dictionary is empty
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 9
+	Execution stack: stack is empty
+	Symbol table: dictionary is empty
+	Output list: 
+1
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 90
+	Execution stack: stack is empty
+	Symbol table: dictionary is empty
+	Output list: 
+1
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 90
+	Execution stack: 
+print(2)
+	Symbol table: dictionary is empty
+	Output list: 
+1
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 9
+	Execution stack: stack is empty
+	Symbol table: dictionary is empty
+	Output list: 
+1
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 90
+	Execution stack: stack is empty
+	Symbol table: dictionary is empty
+	Output list: 
+1
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 90
+	Execution stack: 
+print(2)
+	Symbol table: dictionary is empty
+	Output list: 
+1
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 90
+	Execution stack: stack is empty
+	Symbol table: dictionary is empty
+	Output list: 
+1
+2
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 90
+	Execution stack: stack is empty
+	Symbol table: dictionary is empty
+	Output list: 
+1
+2
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 9
+	Execution stack: 
+fork( print(1) )
+fork( print(2) )
+	Symbol table: dictionary is empty
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 9
+	Execution stack: 
+fork( print(1) )
+fork( print(2) )
+	Symbol table: dictionary is empty
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 10
+	Execution stack: 
+fork( print(2) )
+	Symbol table: dictionary is empty
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 90
+	Execution stack: 
+print(1)
+	Symbol table: dictionary is empty
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 10
+	Execution stack: 
+fork( print(2) )
+	Symbol table: dictionary is empty
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 90
+	Execution stack: 
+print(1)
+	Symbol table: dictionary is empty
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 11
+	Execution stack: stack is empty
+	Symbol table: dictionary is empty
+	Output list: 
+1
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 90
+	Execution stack: stack is empty
+	Symbol table: dictionary is empty
+	Output list: 
+1
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 100
+	Execution stack: 
+print(2)
+	Symbol table: dictionary is empty
+	Output list: 
+1
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 11
+	Execution stack: stack is empty
+	Symbol table: dictionary is empty
+	Output list: 
+1
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 90
+	Execution stack: stack is empty
+	Symbol table: dictionary is empty
+	Output list: 
+1
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 100
+	Execution stack: 
+print(2)
+	Symbol table: dictionary is empty
+	Output list: 
+1
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 100
+	Execution stack: stack is empty
+	Symbol table: dictionary is empty
+	Output list: 
+1
+2
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 100
+	Execution stack: stack is empty
+	Symbol table: dictionary is empty
+	Output list: 
+1
+2
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 9
+	Execution stack: 
+fork( print(1) )
+fork( print(2) )
+	Symbol table: dictionary is empty
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 9
+	Execution stack: 
+fork( print(1) )
+fork( print(2) )
+	Symbol table: dictionary is empty
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 10
+	Execution stack: 
+fork( print(2) )
+	Symbol table: dictionary is empty
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 90
+	Execution stack: 
+print(1)
+	Symbol table: dictionary is empty
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 10
+	Execution stack: 
+fork( print(2) )
+	Symbol table: dictionary is empty
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 90
+	Execution stack: 
+print(1)
+	Symbol table: dictionary is empty
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 11
+	Execution stack: stack is empty
+	Symbol table: dictionary is empty
+	Output list: 
+1
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 90
+	Execution stack: stack is empty
+	Symbol table: dictionary is empty
+	Output list: 
+1
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 100
+	Execution stack: 
+print(2)
+	Symbol table: dictionary is empty
+	Output list: 
+1
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 11
+	Execution stack: stack is empty
+	Symbol table: dictionary is empty
+	Output list: 
+1
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 90
+	Execution stack: stack is empty
+	Symbol table: dictionary is empty
+	Output list: 
+1
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 100
+	Execution stack: 
+print(2)
+	Symbol table: dictionary is empty
+	Output list: 
+1
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 100
+	Execution stack: stack is empty
+	Symbol table: dictionary is empty
+	Output list: 
+1
+2
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 100
+	Execution stack: stack is empty
+	Symbol table: dictionary is empty
+	Output list: 
+1
+2
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 9
+	Execution stack: 
+fork( print(1) )
+fork( print(2) )
+	Symbol table: dictionary is empty
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 9
+	Execution stack: 
+fork( print(1) )
+fork( print(2) )
+	Symbol table: dictionary is empty
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 9
+	Execution stack: 
+fork( print(2) )
+	Symbol table: dictionary is empty
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 90
+	Execution stack: 
+print(1)
+	Symbol table: dictionary is empty
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 9
+	Execution stack: 
+fork( print(2) )
+	Symbol table: dictionary is empty
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 90
+	Execution stack: 
+print(1)
+	Symbol table: dictionary is empty
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 9
+	Execution stack: stack is empty
+	Symbol table: dictionary is empty
+	Output list: 
+1
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 90
+	Execution stack: stack is empty
+	Symbol table: dictionary is empty
+	Output list: 
+1
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 900
+	Execution stack: 
+print(2)
+	Symbol table: dictionary is empty
+	Output list: 
+1
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 9
+	Execution stack: stack is empty
+	Symbol table: dictionary is empty
+	Output list: 
+1
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 90
+	Execution stack: stack is empty
+	Symbol table: dictionary is empty
+	Output list: 
+1
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 900
+	Execution stack: 
+print(2)
+	Symbol table: dictionary is empty
+	Output list: 
+1
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 900
+	Execution stack: stack is empty
+	Symbol table: dictionary is empty
+	Output list: 
+1
+2
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 900
+	Execution stack: stack is empty
+	Symbol table: dictionary is empty
+	Output list: 
+1
+2
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 9
+	Execution stack: 
+fork( print(1) )
+fork( print(2) )
+	Symbol table: dictionary is empty
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 9
+	Execution stack: 
+fork( print(1) )
+fork( print(2) )
+	Symbol table: dictionary is empty
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 9
+	Execution stack: 
+fork( print(2) )
+	Symbol table: dictionary is empty
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 90
+	Execution stack: 
+print(1)
+	Symbol table: dictionary is empty
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 9
+	Execution stack: 
+fork( print(2) )
+	Symbol table: dictionary is empty
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 90
+	Execution stack: 
+print(1)
+	Symbol table: dictionary is empty
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 9
+	Execution stack: stack is empty
+	Symbol table: dictionary is empty
+	Output list: 
+1
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 90
+	Execution stack: stack is empty
+	Symbol table: dictionary is empty
+	Output list: 
+1
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 900
+	Execution stack: 
+print(2)
+	Symbol table: dictionary is empty
+	Output list: 
+1
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 9
+	Execution stack: stack is empty
+	Symbol table: dictionary is empty
+	Output list: 
+1
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 90
+	Execution stack: stack is empty
+	Symbol table: dictionary is empty
+	Output list: 
+1
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 900
+	Execution stack: 
+print(2)
+	Symbol table: dictionary is empty
+	Output list: 
+1
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 900
+	Execution stack: stack is empty
+	Symbol table: dictionary is empty
+	Output list: 
+1
+2
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 900
+	Execution stack: stack is empty
+	Symbol table: dictionary is empty
+	Output list: 
+1
+2
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 9
+	Execution stack: 
+fork( print(1) )
+fork( print(2) )
+	Symbol table: dictionary is empty
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 9
+	Execution stack: 
+fork( print(1) )
+fork( print(2) )
+	Symbol table: dictionary is empty
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 9
+	Execution stack: 
+fork( print(2) )
+	Symbol table: dictionary is empty
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 90
+	Execution stack: 
+print(1)
+	Symbol table: dictionary is empty
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 9
+	Execution stack: 
+fork( print(2) )
+	Symbol table: dictionary is empty
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 90
+	Execution stack: 
+print(1)
+	Symbol table: dictionary is empty
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 9
+	Execution stack: stack is empty
+	Symbol table: dictionary is empty
+	Output list: 
+1
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 90
+	Execution stack: stack is empty
+	Symbol table: dictionary is empty
+	Output list: 
+1
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 900
+	Execution stack: 
+print(2)
+	Symbol table: dictionary is empty
+	Output list: 
+1
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 9
+	Execution stack: stack is empty
+	Symbol table: dictionary is empty
+	Output list: 
+1
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 90
+	Execution stack: stack is empty
+	Symbol table: dictionary is empty
+	Output list: 
+1
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 900
+	Execution stack: 
+print(2)
+	Symbol table: dictionary is empty
+	Output list: 
+1
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 900
+	Execution stack: stack is empty
+	Symbol table: dictionary is empty
+	Output list: 
+1
+2
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 900
+	Execution stack: stack is empty
+	Symbol table: dictionary is empty
+	Output list: 
+1
+2
+	File table: dictionary is empty
+	Heap table: dictionary is empty

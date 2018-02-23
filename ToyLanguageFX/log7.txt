@@ -1,0 +1,1125 @@
+
+
+	Program id: 8
+	Execution stack: 
+a=1
+b=2; switch(a*10)(case b*c : print(a); print(b))(case 10 : print(100); print(200))(default :print(300)); print(300)
+	Symbol table: dictionary is empty
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+a=1
+b=2; switch(a*10)(case b*c : print(a); print(b))(case 10 : print(100); print(200))(default :print(300)); print(300)
+	Symbol table: dictionary is empty
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+b=2; switch(a*10)(case b*c : print(a); print(b))(case 10 : print(100); print(200))(default :print(300)); print(300)
+	Symbol table: 
+a->1
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+b=2; switch(a*10)(case b*c : print(a); print(b))(case 10 : print(100); print(200))(default :print(300)); print(300)
+	Symbol table: 
+a->1
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+b=2
+switch(a*10)(case b*c : print(a); print(b))(case 10 : print(100); print(200))(default :print(300)); print(300)
+	Symbol table: 
+a->1
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+b=2
+switch(a*10)(case b*c : print(a); print(b))(case 10 : print(100); print(200))(default :print(300)); print(300)
+	Symbol table: 
+a->1
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+switch(a*10)(case b*c : print(a); print(b))(case 10 : print(100); print(200))(default :print(300)); print(300)
+	Symbol table: 
+a->1
+b->2
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+switch(a*10)(case b*c : print(a); print(b))(case 10 : print(100); print(200))(default :print(300)); print(300)
+	Symbol table: 
+a->1
+b->2
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+switch(a*10)(case b*c : print(a); print(b))(case 10 : print(100); print(200))(default :print(300))
+print(300)
+	Symbol table: 
+a->1
+b->2
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+switch(a*10)(case b*c : print(a); print(b))(case 10 : print(100); print(200))(default :print(300))
+print(300)
+	Symbol table: 
+a->1
+b->2
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+IF(a*10==b*c) THEN(print(a); print(b))ELSE(IF(a*10==10) THEN(print(100); print(200))ELSE(print(300)))
+print(300)
+	Symbol table: 
+a->1
+b->2
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+IF(a*10==b*c) THEN(print(a); print(b))ELSE(IF(a*10==10) THEN(print(100); print(200))ELSE(print(300)))
+print(300)
+	Symbol table: 
+a->1
+b->2
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+print(300)
+	Symbol table: 
+a->1
+b->2
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+print(300)
+	Symbol table: 
+a->1
+b->2
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: stack is empty
+	Symbol table: 
+a->1
+b->2
+	Output list: 
+300
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: stack is empty
+	Symbol table: 
+a->1
+b->2
+	Output list: 
+300
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+a=1
+b=2; switch(a*10)(case b*c : print(a); print(b))(case 10 : print(100); print(200))(default :print(300)); print(300)
+	Symbol table: dictionary is empty
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+a=1
+b=2; switch(a*10)(case b*c : print(a); print(b))(case 10 : print(100); print(200))(default :print(300)); print(300)
+	Symbol table: dictionary is empty
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+b=2; switch(a*10)(case b*c : print(a); print(b))(case 10 : print(100); print(200))(default :print(300)); print(300)
+	Symbol table: 
+a->1
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+b=2; switch(a*10)(case b*c : print(a); print(b))(case 10 : print(100); print(200))(default :print(300)); print(300)
+	Symbol table: 
+a->1
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+b=2
+switch(a*10)(case b*c : print(a); print(b))(case 10 : print(100); print(200))(default :print(300)); print(300)
+	Symbol table: 
+a->1
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+b=2
+switch(a*10)(case b*c : print(a); print(b))(case 10 : print(100); print(200))(default :print(300)); print(300)
+	Symbol table: 
+a->1
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+switch(a*10)(case b*c : print(a); print(b))(case 10 : print(100); print(200))(default :print(300)); print(300)
+	Symbol table: 
+a->1
+b->2
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+switch(a*10)(case b*c : print(a); print(b))(case 10 : print(100); print(200))(default :print(300)); print(300)
+	Symbol table: 
+a->1
+b->2
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+a=1
+b=2; c=5; switch(a*10)(case b*c : print(a); print(b))(case 10 : print(100); print(200))(default :print(300)); print(300)
+	Symbol table: dictionary is empty
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+a=1
+b=2; c=5; switch(a*10)(case b*c : print(a); print(b))(case 10 : print(100); print(200))(default :print(300)); print(300)
+	Symbol table: dictionary is empty
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+b=2; c=5; switch(a*10)(case b*c : print(a); print(b))(case 10 : print(100); print(200))(default :print(300)); print(300)
+	Symbol table: 
+a->1
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+b=2; c=5; switch(a*10)(case b*c : print(a); print(b))(case 10 : print(100); print(200))(default :print(300)); print(300)
+	Symbol table: 
+a->1
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+b=2
+c=5; switch(a*10)(case b*c : print(a); print(b))(case 10 : print(100); print(200))(default :print(300)); print(300)
+	Symbol table: 
+a->1
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+b=2
+c=5; switch(a*10)(case b*c : print(a); print(b))(case 10 : print(100); print(200))(default :print(300)); print(300)
+	Symbol table: 
+a->1
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+c=5; switch(a*10)(case b*c : print(a); print(b))(case 10 : print(100); print(200))(default :print(300)); print(300)
+	Symbol table: 
+a->1
+b->2
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+c=5; switch(a*10)(case b*c : print(a); print(b))(case 10 : print(100); print(200))(default :print(300)); print(300)
+	Symbol table: 
+a->1
+b->2
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+c=5
+switch(a*10)(case b*c : print(a); print(b))(case 10 : print(100); print(200))(default :print(300)); print(300)
+	Symbol table: 
+a->1
+b->2
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+c=5
+switch(a*10)(case b*c : print(a); print(b))(case 10 : print(100); print(200))(default :print(300)); print(300)
+	Symbol table: 
+a->1
+b->2
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+switch(a*10)(case b*c : print(a); print(b))(case 10 : print(100); print(200))(default :print(300)); print(300)
+	Symbol table: 
+a->1
+b->2
+c->5
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+switch(a*10)(case b*c : print(a); print(b))(case 10 : print(100); print(200))(default :print(300)); print(300)
+	Symbol table: 
+a->1
+b->2
+c->5
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+switch(a*10)(case b*c : print(a); print(b))(case 10 : print(100); print(200))(default :print(300))
+print(300)
+	Symbol table: 
+a->1
+b->2
+c->5
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+switch(a*10)(case b*c : print(a); print(b))(case 10 : print(100); print(200))(default :print(300))
+print(300)
+	Symbol table: 
+a->1
+b->2
+c->5
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+IF(a*10==b*c) THEN(print(a); print(b))ELSE(IF(a*10==10) THEN(print(100); print(200))ELSE(print(300)))
+print(300)
+	Symbol table: 
+a->1
+b->2
+c->5
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+IF(a*10==b*c) THEN(print(a); print(b))ELSE(IF(a*10==10) THEN(print(100); print(200))ELSE(print(300)))
+print(300)
+	Symbol table: 
+a->1
+b->2
+c->5
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+print(a); print(b)
+print(300)
+	Symbol table: 
+a->1
+b->2
+c->5
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+print(a); print(b)
+print(300)
+	Symbol table: 
+a->1
+b->2
+c->5
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+print(a)
+print(b)
+print(300)
+	Symbol table: 
+a->1
+b->2
+c->5
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+print(a)
+print(b)
+print(300)
+	Symbol table: 
+a->1
+b->2
+c->5
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+print(b)
+print(300)
+	Symbol table: 
+a->1
+b->2
+c->5
+	Output list: 
+1
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+print(b)
+print(300)
+	Symbol table: 
+a->1
+b->2
+c->5
+	Output list: 
+1
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+print(300)
+	Symbol table: 
+a->1
+b->2
+c->5
+	Output list: 
+1
+2
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+print(300)
+	Symbol table: 
+a->1
+b->2
+c->5
+	Output list: 
+1
+2
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: stack is empty
+	Symbol table: 
+a->1
+b->2
+c->5
+	Output list: 
+1
+2
+300
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: stack is empty
+	Symbol table: 
+a->1
+b->2
+c->5
+	Output list: 
+1
+2
+300
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+a=1
+b=2; c=5; switch(a*10)(case b*c : print(a); print(b))(case 10 : print(100); print(200))(default :print(300)); print(300)
+	Symbol table: dictionary is empty
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+a=1
+b=2; c=5; switch(a*10)(case b*c : print(a); print(b))(case 10 : print(100); print(200))(default :print(300)); print(300)
+	Symbol table: dictionary is empty
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+b=2; c=5; switch(a*10)(case b*c : print(a); print(b))(case 10 : print(100); print(200))(default :print(300)); print(300)
+	Symbol table: 
+a->1
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+b=2; c=5; switch(a*10)(case b*c : print(a); print(b))(case 10 : print(100); print(200))(default :print(300)); print(300)
+	Symbol table: 
+a->1
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+b=2
+c=5; switch(a*10)(case b*c : print(a); print(b))(case 10 : print(100); print(200))(default :print(300)); print(300)
+	Symbol table: 
+a->1
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+b=2
+c=5; switch(a*10)(case b*c : print(a); print(b))(case 10 : print(100); print(200))(default :print(300)); print(300)
+	Symbol table: 
+a->1
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+c=5; switch(a*10)(case b*c : print(a); print(b))(case 10 : print(100); print(200))(default :print(300)); print(300)
+	Symbol table: 
+a->1
+b->2
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+c=5; switch(a*10)(case b*c : print(a); print(b))(case 10 : print(100); print(200))(default :print(300)); print(300)
+	Symbol table: 
+a->1
+b->2
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+c=5
+switch(a*10)(case b*c : print(a); print(b))(case 10 : print(100); print(200))(default :print(300)); print(300)
+	Symbol table: 
+a->1
+b->2
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+c=5
+switch(a*10)(case b*c : print(a); print(b))(case 10 : print(100); print(200))(default :print(300)); print(300)
+	Symbol table: 
+a->1
+b->2
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+switch(a*10)(case b*c : print(a); print(b))(case 10 : print(100); print(200))(default :print(300)); print(300)
+	Symbol table: 
+a->1
+b->2
+c->5
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+switch(a*10)(case b*c : print(a); print(b))(case 10 : print(100); print(200))(default :print(300)); print(300)
+	Symbol table: 
+a->1
+b->2
+c->5
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+switch(a*10)(case b*c : print(a); print(b))(case 10 : print(100); print(200))(default :print(300))
+print(300)
+	Symbol table: 
+a->1
+b->2
+c->5
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+switch(a*10)(case b*c : print(a); print(b))(case 10 : print(100); print(200))(default :print(300))
+print(300)
+	Symbol table: 
+a->1
+b->2
+c->5
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+IF(a*10==b*c) THEN(print(a); print(b))ELSE(IF(a*10==10) THEN(print(100); print(200))ELSE(print(300)))
+print(300)
+	Symbol table: 
+a->1
+b->2
+c->5
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+IF(a*10==b*c) THEN(print(a); print(b))ELSE(IF(a*10==10) THEN(print(100); print(200))ELSE(print(300)))
+print(300)
+	Symbol table: 
+a->1
+b->2
+c->5
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+print(a); print(b)
+print(300)
+	Symbol table: 
+a->1
+b->2
+c->5
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+print(a); print(b)
+print(300)
+	Symbol table: 
+a->1
+b->2
+c->5
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+print(a)
+print(b)
+print(300)
+	Symbol table: 
+a->1
+b->2
+c->5
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+print(a)
+print(b)
+print(300)
+	Symbol table: 
+a->1
+b->2
+c->5
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+print(b)
+print(300)
+	Symbol table: 
+a->1
+b->2
+c->5
+	Output list: 
+1
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+print(b)
+print(300)
+	Symbol table: 
+a->1
+b->2
+c->5
+	Output list: 
+1
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+print(300)
+	Symbol table: 
+a->1
+b->2
+c->5
+	Output list: 
+1
+2
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+print(300)
+	Symbol table: 
+a->1
+b->2
+c->5
+	Output list: 
+1
+2
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: stack is empty
+	Symbol table: 
+a->1
+b->2
+c->5
+	Output list: 
+1
+2
+300
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: stack is empty
+	Symbol table: 
+a->1
+b->2
+c->5
+	Output list: 
+1
+2
+300
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+a=1
+b=2; c=5; switch(a*10)(case b*c : print(a); print(b))(case 10 : print(100); print(200))(default :print(300)); print(300)
+	Symbol table: dictionary is empty
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+a=1
+b=2; c=5; switch(a*10)(case b*c : print(a); print(b))(case 10 : print(100); print(200))(default :print(300)); print(300)
+	Symbol table: dictionary is empty
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+b=2; c=5; switch(a*10)(case b*c : print(a); print(b))(case 10 : print(100); print(200))(default :print(300)); print(300)
+	Symbol table: 
+a->1
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+b=2; c=5; switch(a*10)(case b*c : print(a); print(b))(case 10 : print(100); print(200))(default :print(300)); print(300)
+	Symbol table: 
+a->1
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+b=2
+c=5; switch(a*10)(case b*c : print(a); print(b))(case 10 : print(100); print(200))(default :print(300)); print(300)
+	Symbol table: 
+a->1
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+b=2
+c=5; switch(a*10)(case b*c : print(a); print(b))(case 10 : print(100); print(200))(default :print(300)); print(300)
+	Symbol table: 
+a->1
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+c=5; switch(a*10)(case b*c : print(a); print(b))(case 10 : print(100); print(200))(default :print(300)); print(300)
+	Symbol table: 
+a->1
+b->2
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+c=5; switch(a*10)(case b*c : print(a); print(b))(case 10 : print(100); print(200))(default :print(300)); print(300)
+	Symbol table: 
+a->1
+b->2
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+c=5
+switch(a*10)(case b*c : print(a); print(b))(case 10 : print(100); print(200))(default :print(300)); print(300)
+	Symbol table: 
+a->1
+b->2
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+c=5
+switch(a*10)(case b*c : print(a); print(b))(case 10 : print(100); print(200))(default :print(300)); print(300)
+	Symbol table: 
+a->1
+b->2
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+switch(a*10)(case b*c : print(a); print(b))(case 10 : print(100); print(200))(default :print(300)); print(300)
+	Symbol table: 
+a->1
+b->2
+c->5
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+switch(a*10)(case b*c : print(a); print(b))(case 10 : print(100); print(200))(default :print(300)); print(300)
+	Symbol table: 
+a->1
+b->2
+c->5
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+switch(a*10)(case b*c : print(a); print(b))(case 10 : print(100); print(200))(default :print(300))
+print(300)
+	Symbol table: 
+a->1
+b->2
+c->5
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+switch(a*10)(case b*c : print(a); print(b))(case 10 : print(100); print(200))(default :print(300))
+print(300)
+	Symbol table: 
+a->1
+b->2
+c->5
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+IF(a*10==b*c) THEN(print(a); print(b))ELSE(IF(a*10==10) THEN(print(100); print(200))ELSE(print(300)))
+print(300)
+	Symbol table: 
+a->1
+b->2
+c->5
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+IF(a*10==b*c) THEN(print(a); print(b))ELSE(IF(a*10==10) THEN(print(100); print(200))ELSE(print(300)))
+print(300)
+	Symbol table: 
+a->1
+b->2
+c->5
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+print(a); print(b)
+print(300)
+	Symbol table: 
+a->1
+b->2
+c->5
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+print(a); print(b)
+print(300)
+	Symbol table: 
+a->1
+b->2
+c->5
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+print(a)
+print(b)
+print(300)
+	Symbol table: 
+a->1
+b->2
+c->5
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+print(a)
+print(b)
+print(300)
+	Symbol table: 
+a->1
+b->2
+c->5
+	Output list: list is empty
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+print(b)
+print(300)
+	Symbol table: 
+a->1
+b->2
+c->5
+	Output list: 
+1
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+print(b)
+print(300)
+	Symbol table: 
+a->1
+b->2
+c->5
+	Output list: 
+1
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+print(300)
+	Symbol table: 
+a->1
+b->2
+c->5
+	Output list: 
+1
+2
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: 
+print(300)
+	Symbol table: 
+a->1
+b->2
+c->5
+	Output list: 
+1
+2
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: stack is empty
+	Symbol table: 
+a->1
+b->2
+c->5
+	Output list: 
+1
+2
+300
+	File table: dictionary is empty
+	Heap table: dictionary is empty
+
+	Program id: 8
+	Execution stack: stack is empty
+	Symbol table: 
+a->1
+b->2
+c->5
+	Output list: 
+1
+2
+300
+	File table: dictionary is empty
+	Heap table: dictionary is empty
